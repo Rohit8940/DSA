@@ -1,6 +1,6 @@
 // we will use kadane's algorithm to counter this solution
 
-
+#include<vector>
 
 class Solution {
   public:
