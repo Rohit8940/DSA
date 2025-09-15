@@ -6,7 +6,6 @@
 // This algorithm states that if any element occurs more than  
 // 
 // 
-// ​
 // n/2  times, then you can find the majority element using the following algorithm:
 
 // Initialize the possible predicted candidate for the answer to be 0, and mark its frequency or count as 0.
